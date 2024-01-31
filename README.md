@@ -7,7 +7,7 @@ I became interested in technology at a very young age. The thought and creativit
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=53F762&width=1000&lines=Hello+my+name+is+Steven+Freeman+I'm+a+Software+Engineer;Hello+my+name+is+Steven+Freeman+I'm+a+Gamer;Hello+my+name+is+Steven+Freeman+I'm+a+Popular+Loner;Hello+my+name+is+Steven+Freeman+I'm+a+Music+Fan;Hello+my+name+is+Steven+Freeman+I'm+a+Athelete;Hello+my+name+is+Steven+Freeman+I'm+a+Anime+Fan;Hello+my+name+is+Steven+Freeman+I'm+a+Student+at+CodeCrew;Hello+my+name+is+Steven+Freeman+I'm+a+Growing+Developer)](https://git.io/typing-svg)
 
 <details>
-<summary>🎶 Spotify Now Playing</summary>
+<summary>🎶 Spotify Now Playing - RodWave</summary>
 
 [<img src="https://spotify-github-profile.vercel.app/api/view?uid=epicgammie12&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="350" />](https://github.com/kittinan/spotify-github-profile)
 
