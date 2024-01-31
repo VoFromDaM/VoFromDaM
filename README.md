@@ -18,7 +18,7 @@ I became interested in technology at a very young age. The thought and creativit
 ## <img height="35" src="https://github.com/VofromDaM/VoFromDaM/blob/a01ffb04a59511f80ab8139b4a715d71116e919d/assets/plant.gif"/>    My Info!
 
 [![GitHub followers](https://img.shields.io/github/followers/VoFromDaM?style=social)](https://www.github.com/VoFromDaM)
-[![Linkedin Badge](https://img.shields.io/badge/-VoFromDaM-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VoFromDaM/)](https://www.linkedin.com/in/VoFromDaM/)
+[![Linkedin Badge](https://img.shields.io/badge/-VoFromDaM-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-freeman/)](https://www.linkedin.com/in/steven-freeman-8603662b1/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoFromDaM&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
